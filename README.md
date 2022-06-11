@@ -2,7 +2,7 @@
 A neural network based chess engine
 
 ## Goal
-Create a chess engine with gm+ rating by analyzing games played by high-rated human players and further improve using self-play.
+Create a chess engine by analyzing games played by high-rated human players and further improve using self-play. As this is a solo project, the rating will be relatively low. The main goal is to learn.
 
 ## Method
 Re-implementing the self-play algorithm by Google DeepMind in python, tensorflow.
